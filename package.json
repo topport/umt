@@ -1,8 +1,8 @@
 {
-  "name": "zmtlwzy-admin",
+  "name": "umt",
   "version": "0.2.0",
   "author": {
-    "name": "zmtlwzy"
+    "name": "umt"
   },
   "scripts": {
     "dev": "vite --host",
